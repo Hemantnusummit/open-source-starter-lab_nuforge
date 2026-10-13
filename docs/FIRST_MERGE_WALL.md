@@ -554,6 +554,12 @@ Keep your entry short and professional.
 - I worked on: test: expand timeline plugin coverage (#462)
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @lvl1sleepy
+
+- First merged PR: #514
+- I worked on: Expanded timeline plugin test coverage
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.
